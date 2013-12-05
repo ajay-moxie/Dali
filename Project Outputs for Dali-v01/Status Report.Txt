@@ -1,0 +1,10 @@
+Output: Report Project Hierarchy
+Type  : ReportHierarchy
+From  : Variant [[No Variations]] of Project [Dali-v01.PrjPcb]
+   Generated File[Dali.REP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:11:50 On 28-11-2013
